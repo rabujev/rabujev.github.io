@@ -4,7 +4,4 @@
 
 I'll try to improve the page whenever I learn something new working here at [**@Becode**](https://github.com/becodeorg) :octocat:
 
-My gratitude goes to [**Dinesh Pandiyan**](https://github.com/flexdinesh/dev-landing-page) who made the code for the web page open-source.
-
-
-Jamal Rabujev
+My gratitude goes to [**Dinesh Pandiyan**](https://github.com/flexdinesh/dev-landing-page) for making the code for his Dev Landing page open-source.
